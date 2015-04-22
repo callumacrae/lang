@@ -1,4 +1,4 @@
-# tiny-lang
+# lang
 
 A tiny language library. Put this on your page:
 
@@ -19,7 +19,7 @@ A tiny language library. Put this on your page:
 Then, you can use the lang function as follows:
 
 ```js
-var lang = require('tiny-lang');
+var lang = require('lang');
 
 lang('numbers.two'); //=> Deux
 lang('sentence'); //=> Ce est une phrase
@@ -38,8 +38,11 @@ Add tests.
 ## Install
 
 ```
-$ npm install --save tiny-lang
+$ npm install --save lang
 ```
+
+(note: used to be tiny-lang, and is still tiny-lang on npm, but that won't be
+updated)
 
 ## License
 
