@@ -41,8 +41,8 @@ Add tests.
 $ npm install --save lang
 ```
 
-(note: used to be tiny-lang, and is still tiny-lang on npm, but that won't be
-updated)
+(note: used to be tiny-lang, and is still available as tiny-lang on npm, but
+that won't be updated)
 
 ## License
 
